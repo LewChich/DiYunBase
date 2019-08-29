@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_color" >#E07A3E</color>
+    <color name="main">#e7ab3c</color>
+    <color name="main_color">#E07A3E</color>
+    <color name="line">#DDDDDD</color>
+    <color name="gray">#f1f1f1</color>
+    <color name="font_ff99">#999999</color>
+    <color name="trans_ff99">#20999999</color>
+    <color name="font_ff33">#333333</color>
+    <color name="font_ff66">#666666</color>
+    <color name="blue">#0072EE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent_40">#40111111</color>
+    <color name="transparent_80">#80111111</color>
+    <color name="bg_color">#F0F0F0</color>
+    <color name="horizontal_line_color">#E6E6E6</color>
+
+    <color name="color_white">#FFFFFFFF</color>
+    <color name="color_bg">#FAFAFA</color>
+    <color name="black">#000000</color>
+    <color name="color_rad">#DD0B0B</color>
+    <color name="color_acafb5">#ACAFB5</color>
+</resources>
